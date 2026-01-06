@@ -14,7 +14,7 @@ This project implements a multi-class classification system to predict obesity l
 | Muhammad Nawfal bin Mohd Shaifuddin     | A25CS0109 |
 
 
-**📍 Course:** SECB3203 Programming for Bioinformatics | Section 02   
+**📍 Course:** SECB3203 - Programming for Bioinformatics, Section 02   
 **📅 Semester:** Semester 1, Session 2025/2026  
 **🏫 Institution:** Faculty of Computing, Universiti Teknologi Malaysia (UTM), Johor Bahru   
 
@@ -22,15 +22,17 @@ This project implements a multi-class classification system to predict obesity l
 
 | Document           | Link | Status |
 |--------------------|------|--------|
-| Dataset            | <a href="https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels" target="_blank">View on Kaggle ↗</a> | Available |
-| About Group Project   | <a href="https://docs.google.com/document/d/1WjiaTM7Ak2IodxiPoVR4yT06U-EuHZGU/edit?usp=drive_link&ouid=100757770906731036536&rtpof=true&sd=true" target="_blank">View About Project ↗</a> | Available |
-| Project Proposal   | <a href="https://docs.google.com/document/d/1aSBEW__QrXNgWm5SQU7ot5DQ4882w__X/edit?usp=drive_link&ouid=100757770906731036536&rtpof=true&sd=true" target="_blank">View Proposal ↗</a> | Available |
+| Dataset            | [View on Kaggle ↗](https://www.kaggle.com/datasets/fatemehmehrparvar/obesity-levels) | Available |
+| About Group Project   | [View About Project ↗](https://docs.google.com/document/d/1WjiaTM7Ak2IodxiPoVR4yT06U-EuHZGU/edit?usp=drive_link&ouid=100757770906731036536&rtpof=true&sd=true)  | Available |
+| Project Proposal   | [View Proposal ↗](https://docs.google.com/document/d/1aSBEW__QrXNgWm5SQU7ot5DQ4882w__X/edit?usp=drive_link&ouid=100757770906731036536&rtpof=true&sd=true) | Available |
 | Project Progress 1 | <a href="#" target="_blank">View Progress ↗</a> | Coming Soon |
 | Project Progress 2 | <a href="#" target="_blank">View Progress ↗</a> | Coming Soon |
 | Project Progress 3 | <a href="#" target="_blank">View Progress ↗</a> | Coming Soon |
 | Project Progress 4 | <a href="#" target="_blank">View Progress ↗</a> | Coming Soon |
 | Final Report       | <a href="#" target="_blank">View Report ↗</a> | Coming Soon |
 
+
+[View About Project ↗](https://docs.google.com/document/d/1WjiaTM7Ak2IodxiPoVR4yT06U-EuHZGU/edit?usp=drive_link&ouid=100757770906731036536&rtpof=true&sd=true)
 
 ## 📚 About This Repository
 
