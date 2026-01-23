@@ -1,7 +1,7 @@
 
 # Obesity Level Classification
 
-This project implements a multi-class classification system to predict obesity levels using machine learning models. The system analyzes lifestyle, dietary, and physiological data to classify individuals into different obesity risk categories, supporting health assessment and preventive care strategies.
+This project implements a multi-class classification system to predict obesity levels using machine learning models (**Random Forest, XGBoost, Logistic Regression, and Support Vector Machine (SVM)**). The system analyzes lifestyle, dietary, and physiological data to classify individuals into different obesity risk categories, supporting health assessment and preventive care strategies.
 
 ## 👥 Group Members
 
