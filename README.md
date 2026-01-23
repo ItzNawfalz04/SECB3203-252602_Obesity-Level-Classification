@@ -15,7 +15,7 @@ This project implements a multi-class classification system to predict obesity l
 📍 SECB3203 - Programming for Bioinformatics, Section 02   
 📅 Semester 1, Session 2025/2026  
 🏫 Faculty of Computing, Universiti Teknologi Malaysia (UTM), Johor Bahru   
-🧑‍🏫 DR. SEAH CHOON SEN 
+🧑‍🏫 DR. SEAH CHOON SEN (Lecturer)
 
 ## 📂 Project Documentation
 
